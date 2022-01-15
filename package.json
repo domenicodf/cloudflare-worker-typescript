@@ -18,7 +18,7 @@
     "@typescript-eslint/eslint-plugin": "^5.9.1",
     "@typescript-eslint/parser": "^5.9.1",
     "esbuild": "^0.14.11",
-    "eslint": "^7.21.0",
+    "eslint": "^8.6.0",
     "eslint-config-prettier": "^8.1.0",
     "eslint-plugin-prettier": "^4.0.0",
     "miniflare": "^2.1.0",
