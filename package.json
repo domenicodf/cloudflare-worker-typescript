@@ -1,5 +1,5 @@
 {
-  "name": "cludflare-worker-typescript",
+  "name": "cloudflare-worker-typescript",
   "author": "Domenico de Feo",
   "version": "1.0.0",
   "description": "Cloudflare Worker Typescript",
