@@ -10,7 +10,7 @@
     "dev": "wrangler dev",
     "build": "rm -rf dist && npm run tsc && esbuild src/index.ts --bundle --format=esm --outfile=dist/index.mjs",
     "tsc": "tsc --noEmit",
-    "lint": "eslint 'src/**/*.ts' && prettier --check 'src/**/*.ts'"
+    "lint": "eslint 'src/**/*.ts'"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^3.3.0",
