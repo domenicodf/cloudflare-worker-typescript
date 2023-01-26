@@ -13,7 +13,7 @@
     "lint": "eslint 'src/**/*.ts'"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "^3.3.1",
+    "@cloudflare/workers-types": "^4.20230115.0",
     "@cloudflare/wrangler": "^1.19.7",
     "@typescript-eslint/eslint-plugin": "^5.11.0",
     "@typescript-eslint/parser": "^5.11.0",
